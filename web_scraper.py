@@ -1,6 +1,6 @@
 import urllib.request
 from bs4 import BeautifulSoup
-from quanta_scrape import print_to_pdf
+from print_to_pdf import print_to_pdf
 
 url = "https://golangcode.com/"
 headers = {
